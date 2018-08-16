@@ -1,0 +1,14 @@
+Make sure that you run the installer, then basicly what you need to do is go to your pi's IP address in your browser once it booted up.  Also from your PC which you will be controlling the pi from, go ssh in and run the RUNME.py file in Motor_Control!
+Super simple, I know, but it took a decent bit of work to do this. Enjoy!
+
+	
+	The second folder is a program written by a guy a lot smarter then me which I downloaded from github, I take no credit for his work.
+	This has the fun stuff about the server, so if you want to check it out, I reccomend you do! :-D
+
+		
+
+
+
+		Code Drawer, August 11th 2018
+
+	

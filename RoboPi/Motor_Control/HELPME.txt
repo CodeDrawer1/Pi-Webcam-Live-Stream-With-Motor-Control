@@ -1,0 +1,22 @@
+Please SSH from another computer to this pi.
+
+After type: sudo python RUNME.py
+
+Also make sure to go to your pi's IP address on your browser to see the video stream.
+
+You will be prompted with asking what direction to move in:
+	W : Forwards
+	A : Rotate Left
+	S : Stop
+	D : Rotate Right
+
+Then you will be prompted to say how long to move in that direction in seconds.
+	
+
+	At anytime prompted for a direction, if you type terminate exactly, it will 
+	finish the program. THIS IS CRUCIAL FOR A PROPER SHUTDOWN!
+
+
+		Code Drawer
+			January 13th, 2018
+
